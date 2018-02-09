@@ -1,0 +1,5 @@
+*.zip
+node_modules/
+.idea
+.DS_STORE
+credentials.json
